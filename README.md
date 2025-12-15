@@ -16,6 +16,12 @@ Réalisation et production d'un film en prise de vue réelle
 5. Le film sera écrit et tourné en français/Québécois avec des acteurs francophones.
 - Équipement d’enregistrement vidéo et audio de niveau professionnel et des logiciels de montage/post-production.
 - Le film vas plonger les spectateurs dans un univers de crime qui vas les rendre inconfortable, en leur procurant un effet thriller.
+### schéma narratif
+- situation initiale: Steve viens de se faire laisser par sa femme et s'enfonce dans sa dépression
+- élément déclencheur: Il cause un accident et se fait sauver par les paradise's devils
+- péripétie: Il deviens leur chirurgien et prend gout au crime de plus en plus
+- dénoument: Il parviens a avoir un rencart avec son ex-femme et ils en cédulent un autre
+- situation finale: Steve rentre au hangar pour performer une opération, il apperçois que c'est son ex-femme, il a le choix entre sa vie et la sienne il choisi de se sauver
 ### Moodboard
 ![moodboard](moodboard_domaine.jpg)
 ### Description des tâches principales
@@ -35,7 +41,7 @@ Conformation, étalonnage, mise en ligne.
 
 ### Conclusion
 
--	Le film sera en noir et blanc sauf le sang qui aura une couleurs rouge.
+-	La couleur rouge raconte une histoire par elle même.
 
 -	Ce qui distinguerais le film de la concurrence est le fait qu’il serait fait entièrement au Québec par des gens qui viennent d’ici.
 
